@@ -65,7 +65,7 @@
     font-size: 16px;
     font-weight: 600;
     text-align: start;
-    font-family: 'Caprasimo', cursive,sans-serif;
+    font-family: 'Preahvihear', sans-serif;
 }
 
 
@@ -90,7 +90,7 @@
 } */ 
 
 .banner__text {
-
+    font-family: 'Preahvihear', sans-serif;
 }
 
 
@@ -98,7 +98,7 @@
     font-size: 16px;
     text-align: start;
     width: 441px;
-    font-family: 'Caprasimo',sans-serif, cursive;
+    font-family: 'Preahvihear', sans-serif;
     /* font-family: 'Preahvihear', sans-serif; */
 }
 
@@ -111,5 +111,23 @@
     font-size: 16px;
     width: 400px;
     text-align: center;
+    font-family: 'Preahvihear', sans-serif;
+}
+
+
+
+.banner__h3 {
+    margin: 0 auto;
+    font-size: 16px;
+    width: 400px;
+    text-align: center;
+    font-family: 'Preahvihear', sans-serif; 
+}
+
+
+.banner__p3 {
+    font-size: 16px;
+    text-align: start;
+    width: 441px;
     font-family: 'Preahvihear', sans-serif;
 }
